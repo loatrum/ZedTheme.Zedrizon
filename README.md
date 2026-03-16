@@ -14,8 +14,8 @@ A warm dual theme for [Zed](https://zed.dev), ported from the original [Horizon]
 The blur variants use `background.appearance: blurred` for a frosted glass effect on supported platforms (macOS with window blur enabled).
 
 ## Installation
-
-Search for **Horizon** in the Zed extension store (`zed: extensions`), or install via the command palette:
+(TBD):\
+Search for **Zedrizon** in the Zed extension store (`zed: extensions`), or install via the command palette:
 
 ```
 zed: install extension
